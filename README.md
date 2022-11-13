@@ -312,7 +312,7 @@ Industrial Robots
     * ![Image of Robot Pepper during interaction with patients](nursing_robot_pepper.jpeg)
     * ![Image of Robobear RIKEN](Riken_Robear.jpg)
 
-
+TESTTest 
 
 
 ## Application of robots in agriculture 
