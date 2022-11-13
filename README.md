@@ -21,7 +21,7 @@ In the following years other Robots were developed that were used in the automot
 
 #### The characteristics of Cobots
 
-A __cobot__ is an industrial robot that is designed to work together with humans. Therefore, the robot can be used in close vicinity to humans without the latter being exposed to a risk of injury. To guarantee this, the robots are limited to a minimum of their capabilities. The term __cobot__ is short for __collaborative robot__.
+A __cobot__ is an industrial robot that is designed to work together with humans. Therefore, the robot can be used in close vicinity to humans without the latter being exposed to a risk of injury. To guarantee this, the robots are limited to a minimum of their capabilities. The term __cobot__ is short for __collaborative robot__. Typically, cobots are more mobile and easier to move, which distinguishes them from typical industrial robots.
 
 ## Producers
 
@@ -294,7 +294,7 @@ Industrial Robots
         * contains of three components 
         ![Image of components of da vinci system](da_Vinci_system_components.png)
 
-    * Top robotic surgery comapnies in the U.S.  
+    * Top robotic surgery companies in the U.S.  
         1. Intuitive Surgical
         2. Stryker
         3. Smith & Nephew
@@ -323,7 +323,7 @@ Robots can be used for harvesting fruits, [like this robot picking grapes](https
 
 When it comes to research and development some of the [Robotnik](https://robotnik.eu/robotics-applications-in-agriculture/) projects are BACCHUS, AGROBOFOOD and CORSECT. Where Bacchus has the ability to both collet data and do harvesting at the same time. While Agrobofood aims do create a digital transformation in the agricultural sector. Corsect on the other hand works on optimizing insect production. 
 
-According to [Owen-Hill (2022)](https://blog.robotiq.com/top-10-robotic-applications-in-the-agricultural-industry) the top 10 Applications of Robotis agriculture is: 
+According to [Owen-Hill (2022)](https://blog.robotiq.com/top-10-robotic-applications-in-the-agricultural-industry) the top 10 Applications of Robots agriculture is: 
 
 1. Nursery Planting: [being able to plant 10 000 cuttings per hour.](https://www.youtube.com/watch?v=Xy0yOBszN1k)
 2. Crop Seeding: [with high precision.](https://www.youtube.com/watch?v=OoUGSb-ASTc)
@@ -335,6 +335,47 @@ According to [Owen-Hill (2022)](https://blog.robotiq.com/top-10-robotic-applicat
 8. Picking and harvesting: [like this robot picking grapes.](https://www.youtube.com/watch?v=hVvs6_Wx2HM)
 9. Shepherding and Herding: [with "robot dog".](https://www.youtube.com/watch?v=gD7K6-q-o50)
 10. Milking: [both reducing need for labour and stress for the cow.](https://www.youtube.com/watch?v=tLjI_eixBQk)
+
+
+## Application of robots in the warehouse sector
+
+### What is a warehouse robot?
+
+Warehouse robotics involves the use of automated systems, robots and specialized software to automate the flow of goods and increase productivity. These technologies are used to transport materials, perform various tasks, and automate warehouse processes. The relevance of robotics in areas of supply chain, distribution center and warehouse management has increased significantly in the last decade.
+
+### What types of robots are applied in warehouses?
+
+#### Automated Guided Vehicles (AGV)
+
+Automatic Guided Vehicles are transport devices similar to forklifts that are used to move materials, supplies and inventory within a warehouse facility. The technologies operate without drivers, instead following set routes defined by wires, magnetic strips, rails, sensors embedded in the floor or other physical guides. Other robots use cameras and infrared to identify obstacles and avoid collisions.
+
+#### Automated storage and retrieval systems (AS/RS)
+
+AS/RS are computerized systems used to automate inventory management and storage/retrieval of goods on demand. They include stacker cranes for pallets, mini-load systems or the automatic pallet shuttle system, which are usually coupled with warehouse management software and allow the rapid removal and placement of products. The fact that these technologies operate twenty-four hours a day enables the continuous movement of goods, increasing the speed with which an order can be processed and materials handled. 
+
+#### Articulated robotic arms
+
+Articulated robotic arms look like multi-jointed limbs and are used to handle products and distribution centers.  These robots have components that perform rotating and conveying motions, consequently they can rotate, lift and maneuver objects. The arms can work completely independently or together with warehouse workers.Robots facilitate order assembly and can assist warehouse workers in handling heavy loads.
+
+### What are benefits of warehouse robots?
+
+#### 1. Increased productivity and efficiency
+
+By using robots in the warehouse, work becomes far faster and more efficient. For example, warehouse workers can stay at the picking stations and wait for the AS/RS and conveyors to bring them the goods for order assembly. As a result, they don't need to run around the warehouse looking for the items they need.
+
+#### 2. Increased accuracy in workflows
+
+If goods are managed manually, there is an increased risk of error - for instance, putting an item in the wrong place or putting together an order without the appropriate item - which can cause high costs in the company. Robots, by contrast, follow the instructions of the management software regarding the handling, picking and sorting of goods. Consequently, a high level of accuracy is ensured in order handling and warehousing.
+
+#### 3. Collaboration with warehouse workers
+
+Robots facilitate warehouse workers' routine tasks and help them be more efficient. For example, these machines can move large volumes of goods without any problems, allowing the warehouse worker to focus on other tasks with higher added value.
+
+#### 4. Increased Safety
+
+Handling of goods is associated with an increased risk of accidents, especially with heavy loads or when handling in uncomfortable positions and performing repetitive motions. Robots perform various tasks accurately and without the risk of accidents.
+
+
     
 ## Advantages of robots
 
@@ -360,7 +401,7 @@ According to [Owen-Hill (2022)](https://blog.robotiq.com/top-10-robotic-applicat
 
 ## Conclusion 
 
-Robots may be one of the greatest inventions ever, but we must utilise their power with prudence. Perhaps it is a good idea to have industrial robots that can reduce human danger, raise production, and increase profit. But it is insane to design or build anything that threatens the very existence of its creator. Although humanoid robots are still primarily confined to science fiction, robotic devices are all around us. These engineering marvels currently assist us in many aspects of life and have the potential to influence our future.
+Robots may be one of the greatest inventions ever, but we must utilize their power with prudence. Perhaps it is a good idea to have industrial robots that can reduce human danger, raise production, and increase profit. But it is insane to design or build anything that threatens the very existence of its creator. Although humanoid robots are still primarily confined to science fiction, robotic devices are all around us. These engineering marvels currently assist us in many aspects of life and have the potential to influence our future.
 
 Despite a number of advantages and downsides, one thing is certain: persons with robotics expertise will be in great demand in the future. There will almost certainly always be work in the field of robotics, whether it be designing, programming, or maintaining robots.
 
