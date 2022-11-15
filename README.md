@@ -181,7 +181,7 @@ FANUC is also well-known for their large and powerful M-2000iA series robotic ar
     * [R-30iB Plus controller](https://www.fanuc.eu/de/en/robots/accessories/robot-controller-and-connectivity)
     is FANUC’s new standard for smarter productivity. It is destined to contribute to the easier use of robots and automation in the manufacturing industry. Featuring a new generation of advanced integrated hardware and more than 250 software functions, it is your key to robot performance in terms of cycle-time, speed, accuracy and safety. Designed for increased user friendliness and minimal energy consumption, the R-30iB Plus comes in five different cabinets to help you make the most of your floor space and production cell layouts. With a flexible appearance, the user interface, iHMI, has a convincing screen resolution and a strong processing capability.
 
-* The product range of FANUC includes:
+* [The product range of FANUC includes](https://www.fanuc.eu/de/en/robots/robot-range-page):
 
     * Collaborative Robot
     * Genkotsu-robot, Mini Robot
