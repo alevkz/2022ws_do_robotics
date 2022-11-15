@@ -97,8 +97,6 @@ Highly reliable with simplified design and Foundry Plus 2 protection standard
 Built around LeanID for reduced wear on dress packs and ease of simulation
 Built using non-hazardous materials
 
-
-
  
 ## Collaborative Robots:
  ABB’s collaborative robots are made for a wide range of tasks, in operations of every size. They’re easy to set up, program, operate, and scale. Built by industry-leading experts. And serviced by the broadest service network in the industry. Whatever you need, we’re here to support every step of your automation journey.
@@ -325,16 +323,17 @@ When it comes to research and development some of the [Robotnik](https://robotni
 
 According to [Owen-Hill (2022)](https://blog.robotiq.com/top-10-robotic-applications-in-the-agricultural-industry) the top 10 Applications of Robots agriculture is: 
 
-1. Nursery Planting: [being able to plant 10 000 cuttings per hour.](https://www.youtube.com/watch?v=Xy0yOBszN1k)
-2. Crop Seeding: [with high precision.](https://www.youtube.com/watch?v=OoUGSb-ASTc)
-3. Crop monitoring and Analysis: [being able to look at every single plant.](https://www.youtube.com/watch?v=STlXFht8-5w)
-4. Fertilizing and Irrigation: [simple but helpful Cron Fertilizing robot.](https://www.youtube.com/watch?v=STlXFht8-5w)
-5. Crop Weeding and spraying: [like this.](https://www.youtube.com/watch?v=Qg9Zubc7lok)
-6. Thinning and Pruning: [with the award winning LettuceBot.](https://www.youtube.com/watch?v=jL4kcrumHA8)
-7. Autonomous Tractors: [both compact and zero emission.](https://www.youtube.com/watch?v=gMaQq_vRaa8)
+1. Autonomous Tractors: [both compact and zero emission.](https://www.youtube.com/watch?v=gMaQq_vRaa8)
+2. Crop monitoring and Analysis: [being able to look at every single plant.](https://www.youtube.com/watch?v=STlXFht8-5w)
+3. Crop Seeding: [with high precision.](https://www.youtube.com/watch?v=OoUGSb-ASTc)
+4. Crop Weeding and spraying: [like this.](https://www.youtube.com/watch?v=Qg9Zubc7lok)
+5. Fertilizing and Irrigation: [simple but helpful Cron Fertilizing robot.](https://www.youtube.com/watch?v=STlXFht8-5w)
+6. Milking: [both reducing need for labour and stress for the cow.](https://www.youtube.com/watch?v=tLjI_eixBQk)
+7. Nursery Planting: [being able to plant 10 000 cuttings per hour.](https://www.youtube.com/watch?v=Xy0yOBszN1k)
 8. Picking and harvesting: [like this robot picking grapes.](https://www.youtube.com/watch?v=hVvs6_Wx2HM)
 9. Shepherding and Herding: [with "robot dog".](https://www.youtube.com/watch?v=gD7K6-q-o50)
-10. Milking: [both reducing need for labour and stress for the cow.](https://www.youtube.com/watch?v=tLjI_eixBQk)
+10. Thinning and Pruning: [with the award winning LettuceBot.](https://www.youtube.com/watch?v=jL4kcrumHA8)
+
 
 
 ## Application of robots in the warehouse sector
