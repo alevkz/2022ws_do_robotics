@@ -176,6 +176,10 @@ FANUC is also well-known for their large and powerful M-2000iA series robotic ar
 
    * [M-2000iA/2300](https://www.fanuc.eu/de/en/robots/robot-filter-page/m-2000-series/m-2000ia-2300)
    ,with its enormous 2.3 t payload, the M-2000iA/2300 is the biggest lifter in the range. Ideally suited to heavyweight material handling applications that require an even stronger wrist, this machine will easily lift and position an entire car or load bulky set castings onto machine fixtures.
+   * [M-900iB/280](https://www.fanuc.eu/de/en/robots/robot-filter-page/m-900-series/m-900ib-280)
+    ;based on the extremely capable M-900iB/360, the M-900iB/280 features a completely redesigned J3 arm to provide maximum stiffness. The M-900iB/280 has been tested to ISO 9283 rigidity standards and exhibits a very high level of static compliance. This makes it ideally suited to operations where pressure is applied to the tool and accuracy essential.
+    * [R-30iB Plus controller](https://www.fanuc.eu/de/en/robots/accessories/robot-controller-and-connectivity)
+    is FANUC’s new standard for smarter productivity. It is destined to contribute to the easier use of robots and automation in the manufacturing industry. Featuring a new generation of advanced integrated hardware and more than 250 software functions, it is your key to robot performance in terms of cycle-time, speed, accuracy and safety. Designed for increased user friendliness and minimal energy consumption, the R-30iB Plus comes in five different cabinets to help you make the most of your floor space and production cell layouts. With a flexible appearance, the user interface, iHMI, has a convincing screen resolution and a strong processing capability.
 
 * The product range of FANUC includes:
 
