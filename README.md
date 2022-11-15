@@ -172,6 +172,11 @@ programming and operation.
 
 FANUC is also well-known for their large and powerful M-2000iA series robotic arms. This “Ultra Heavy Payload” class has a working capacity of up to 2300 kg! Of course, they make arms of all sizes in between as well. Their Paint Series robotic arm uses a top-of-the-line hydraulic system that is powerful enough for automobile painting but delicate enough for smaller powder-coating jobs. Finally, their mid-range arms can do everything from pick-and-place to welding and machine tending. FANUC has a robot for virtually every automation need.
 
+* Industrial robots for added efficiency:
+
+   * M-2000iA/2300 [use of M-2000iA/2300](https://www.fanuc.eu/de/en/robots/robot-filter-page/m-2000-series/m-2000ia-2300)
+   With its enormous 2.3 t payload, the M-2000iA/2300 is the biggest lifter in the range. Ideally suited to heavyweight material handling applications that require an even stronger wrist, this machine will easily lift and position an entire car or load bulky set castings onto machine fixtures.
+
 * The product range of FANUC includes:
 
     * Collaborative Robot
